@@ -10,19 +10,19 @@ The purpose of this project is the analyze citi bike trip data to highlight tren
 
 [Link to Dashboard](https://public.tableau.com/profile/donnie1554#!/vizhome/CitiBikeAnalysis_16114678641100/CitiBikeAugustTripsAnalysis?publish=yes)
 
-[](https://github.com/DonnieData/bikesharing-/blob/main/img/top_trip_starting_1.png)
+![](https://github.com/DonnieData/bikesharing-/blob/main/img/top_trip_starting_1.png)
 
-[](https://github.com/DonnieData/bikesharing-/blob/main/img/customer_2.png)
+![](https://github.com/DonnieData/bikesharing-/blob/main/img/customer_2.png)
 
-[](https://github.com/DonnieData/bikesharing-/blob/main/img/trip_3.png)
+![](https://github.com/DonnieData/bikesharing-/blob/main/img/trip_3.png)
 
-[](https://github.com/DonnieData/bikesharing-/blob/main/img/trip_4.png)
+![](https://github.com/DonnieData/bikesharing-/blob/main/img/trip_4.png)
 
-[](https://github.com/DonnieData/bikesharing-/blob/main/img/trip_5.png)
+![](https://github.com/DonnieData/bikesharing-/blob/main/img/trip_5.png)
 
-[](https://github.com/DonnieData/bikesharing-/blob/main/img/trip_6.png)
+![](https://github.com/DonnieData/bikesharing-/blob/main/img/trip_6.png)
 
-[](https://github.com/DonnieData/bikesharing-/blob/main/img/trip_7.png)
+![](https://github.com/DonnieData/bikesharing-/blob/main/img/trip_7.png)
 
 ## Summary 
 
